@@ -1,0 +1,15 @@
+{
+  "name": "rabbitmq_consumer",
+  "version": "1.0.0",
+  "description": "simple consumer rabbitmq",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.9.1",
+    "express": "^4.18.1"
+  }
+}
